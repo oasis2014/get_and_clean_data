@@ -40,6 +40,8 @@
 * Cokebook.md
 * result.txt
 * run_analysis.R
+* features.txt
+* README_ori.txt 
 
 
 
